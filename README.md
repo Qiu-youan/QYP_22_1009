@@ -17,7 +17,7 @@
 1. 克隆仓库（约 7 GB，首次拉取会比较久）：
 
    ```bash
-   git clone https://github.com/Qiu-youan/QYP_22_1009.git
+   git clone https://github.com/Qiu-youan/museum-ue5.3.git
    ```
 
 2. 双击 `QYP_22_1009.uproject`，用 UE 5.3 打开。
